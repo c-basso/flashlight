@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35f4722aa2f4cd67d80cc56941557d88",
+    "revision": "b15d31aeedc44446f6ef703bafe8be71",
     "url": "/flashlight/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flashlight/static/css/2.2cfa1b23.chunk.css"
   },
   {
-    "revision": "abea66913e109a80246e",
-    "url": "/flashlight/static/css/main.34c77149.chunk.css"
+    "revision": "09a563511492913c7d4c",
+    "url": "/flashlight/static/css/main.6880b32f.chunk.css"
   },
   {
     "revision": "87bffea2c8f160b0097d",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flashlight/static/js/2.9e12eb3f.chunk.js.LICENSE"
   },
   {
-    "revision": "abea66913e109a80246e",
+    "revision": "09a563511492913c7d4c",
     "url": "/flashlight/static/js/main.a3bd1f4c.chunk.js"
   },
   {

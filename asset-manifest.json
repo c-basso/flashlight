@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/flashlight/static/css/main.34c77149.chunk.css",
+    "main.css": "/flashlight/static/css/main.6880b32f.chunk.css",
     "main.js": "/flashlight/static/js/main.a3bd1f4c.chunk.js",
     "main.js.map": "/flashlight/static/js/main.a3bd1f4c.chunk.js.map",
     "runtime-main.js": "/flashlight/static/js/runtime-main.a059d3de.js",
@@ -9,17 +9,17 @@
     "static/js/2.9e12eb3f.chunk.js": "/flashlight/static/js/2.9e12eb3f.chunk.js",
     "static/js/2.9e12eb3f.chunk.js.map": "/flashlight/static/js/2.9e12eb3f.chunk.js.map",
     "index.html": "/flashlight/index.html",
-    "precache-manifest.173d9c7d3dff2f0bdcce03c7a28e9209.js": "/flashlight/precache-manifest.173d9c7d3dff2f0bdcce03c7a28e9209.js",
+    "precache-manifest.a4c5e5c883487bbc8bb871ffcdd0a85b.js": "/flashlight/precache-manifest.a4c5e5c883487bbc8bb871ffcdd0a85b.js",
     "service-worker.js": "/flashlight/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/flashlight/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.34c77149.chunk.css.map": "/flashlight/static/css/main.34c77149.chunk.css.map",
+    "static/css/main.6880b32f.chunk.css.map": "/flashlight/static/css/main.6880b32f.chunk.css.map",
     "static/js/2.9e12eb3f.chunk.js.LICENSE": "/flashlight/static/js/2.9e12eb3f.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.a059d3de.js",
     "static/css/2.2cfa1b23.chunk.css",
     "static/js/2.9e12eb3f.chunk.js",
-    "static/css/main.34c77149.chunk.css",
+    "static/css/main.6880b32f.chunk.css",
     "static/js/main.a3bd1f4c.chunk.js"
   ]
 }
